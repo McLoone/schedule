@@ -4,4 +4,5 @@
   :dependencies [[org.clojure/clojure "1.8.0"]
                  [liberator "0.14.0"]
                  [compojure "1.4.0"]
-                 [ring/ring-core "1.4.0"]])
+                 [ring/ring-core "1.4.0"]
+                 [ring/ring-mock "0.3.0"]])
